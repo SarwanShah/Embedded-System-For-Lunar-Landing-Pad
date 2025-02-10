@@ -4,4 +4,4 @@ This repository higlights the work done as the Electrical and Electronics engine
 
 ![Product Snapshot](Showcase.jpg)
 
-![Electrical Schematic](Electronics_Schematic_AEGIS-Luminosity.jpg)
+![Electrical Schematic](Electronics_Schematic_AEGIS-Luminosity.png)
