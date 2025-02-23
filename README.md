@@ -7,8 +7,8 @@ Worked as engineering lead on AEGIS - the inflatable lunar landing pad during Fa
 A control system was designed to actuate the inflatable subsystem, anchor subsystem, and
 enclosure subsystem while also providing a human-machine interface for deploying each
 subsystem for Earth analog testing. The control system used an ESP32C6 as the primary
-controller for actuating six servo motors (releasing enclosure), six continuous servo motors
-(driving anchors), and two solenoid valves (inflatable system control), while a single pressure
+controller for actuating 6 servo motors (releasing enclosure), 6 continuous servo motors
+(driving anchors), and 2 solenoid valves (inflatable system control), while 1 pressure
 transducer measures pressure in the inflatable system. The electrical schematic for the
 implemented prototype is shown below. 
 
