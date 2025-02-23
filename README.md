@@ -1,6 +1,6 @@
 ## Summary
 
-Designed a control system for controlling 6 motor, 6 servos, 2 solenoid values using an ESP32C6. The system was able to maintain pressure within +/- 0.25 PSI of the set-point using a Bang-bang control methodology. State-machine routine was developed in software and a web-server as a UI enabled wireless control of the system.
+Designed a control system for controlling 6 motor, 6 servos, 2 solenoid values using an ESP32C6. The system was able to maintain pressure within +/- 0.25 PSI of the set-point using a Bang-bang control methodology. State-machine routine was developed in software and a web-server as a UI enabled wireless control of the system. Won **Best Systems Engineering** honor at NASA's Big Idea Challenge. 
 
 ## Overview
 
